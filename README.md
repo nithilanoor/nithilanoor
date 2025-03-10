@@ -63,7 +63,9 @@
 
 ###
 
-<p align="left">- 🖥️ I code with React, Node.js, and Tailwind CSS to build scalable web applications and user interfaces.<br>- 🖳 Right now, I’m diving deeper into  web development to enhance my full-stack development skills.<br>- 🦾 I’m dedicated to building user-friendly websites and web applications that provide seamless user experiences.<br>- 🎨 Fun Fact: I like to paint</p>
+###
+
+<p align="left">- 🖥️ I code with React, Node.js, and Tailwind CSS to build scalable web applications and user interfaces.<br>- 🖳 Right now, I’m diving deeper into  web development to enhance my full-stack development skills.<br>- 🦾 I’m dedicated to building user-friendly websites and web applications that provide seamless user experiences.<br>- 🎨 Fun Fact: I like to paint.</p>
 
 ###
 
@@ -75,11 +77,13 @@
 
 ###
 
+###
+
 <p align="left"></p>
 
 ###
 
-<h4 align="left">📫How to reach me</h4>
+<h4 align="left">📫Reach Out to Me</h4>
 
 ###
 
