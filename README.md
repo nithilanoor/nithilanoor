@@ -65,15 +65,9 @@
 
 ###
 
-###
-
-<img align="right" height="235" src="https://i.pinimg.com/736x/9a/36/37/9a3637080b86112dbbfc94586d989568.jpg"  />
-
-###
 
 <p align="left">- 🖥️ I code with React, Node.js, and Tailwind CSS to build scalable web applications and user interfaces.<br><br>- 🖳 Right now, I’m diving deeper into web development to enhance my full-stack development skills.<br><br>- 🦾 I’m dedicated to building user-friendly websites and web applications that provide seamless user experiences.<br><br>- 🎨 Fun Fact: I like to paint.</p>
 
-###
 
 ###
 
