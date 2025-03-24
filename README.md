@@ -66,7 +66,7 @@
 ###
 
 
-<p align="left">- 🖥️ I code with React, Node.js, and Tailwind CSS to build scalable web applications and user interfaces.<br><br>- 🖳 Right now, I’m diving deeper into web development to enhance my full-stack development skills.<br><br>- 🦾 I’m dedicated to building user-friendly websites and web applications that provide seamless user experiences.<br><br>- 🎨 Fun Fact: I like to paint.</p>
+<p align="left">- 🖥️ I code with React, Node.js, and Tailwind CSS to build scalable web applications and user interfaces.<br>- 🖳 Right now, I’m diving deeper into web development to enhance my full-stack development skills.<br>- 🦾 I’m dedicated to building user-friendly websites and web applications that provide seamless user experiences.<br>- 🎨 Fun Fact: I like to paint.</p>
 
 
 ###
@@ -97,7 +97,9 @@
   <a href="www.linkedin.com/in/nithila-chowdhury-na207" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:nithilanoor@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
