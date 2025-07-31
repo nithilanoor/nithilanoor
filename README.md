@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">Hi there! It's Nithila. I’m a Web Developer 🤖 with a strong interest in building clean, responsive, and user-friendly websites. While I’m still growing my experience in the field, I’m confident in my skills with React.js, React Router, and Tailwind CSS, and I’m eager to help you bring your ideas to life.</p>
+<p align="left">Hi there! It's Nithila. I’m a Web Developer 🤖 — learning, iterating, and improving with every project. While I’m still growing my experience in this field, I’m confident in my MERN stack skills and eager to grow in a space where code meets collaboration and continuous learning.</p>
 
 ###
 
